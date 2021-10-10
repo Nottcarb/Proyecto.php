@@ -1,0 +1,32 @@
+*{
+    margin: 0%; /*Margen inferior*/
+    left: 0%; /*Margen izquierdo*/
+    top: 0%; /*Margen superior*/
+
+}
+#Titulo_pagina{
+    width: 100%;
+    height: 100%;
+    color: coral;
+}
+
+#Nombre #N_telf #correo_elec #nombre_empresa #Pais #Servicio_son #calendario #services{
+    width: 100%;
+    height: 100%;
+    text-align: justify;
+}
+
+#p {
+    display: block;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+textarea,
+
+#calendario {
+    width : 50%;
+    height: 50%;
+}
+
